@@ -1,3 +1,5 @@
+
+
 """Assignment - using numpy and making a PR.
 
 The goals of this assignment are:
@@ -17,7 +19,7 @@ by calling `ruff check` at the root of the repo.
 """
 import numpy as np
 
-
+##test
 def max_index(X):
     """Return the index of the maximum in a numpy array.
 
